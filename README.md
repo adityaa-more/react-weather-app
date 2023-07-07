@@ -1,3 +1,11 @@
+## [See live](https://get-live-weather.netlify.app/)
+## Preview :
+
+![screencapture-adityaa-more-github-io-react-weather-app-2023-06-29-12_59_38](https://github.com/adityaa-more/react-weather-app/assets/99107694/dc875459-516f-4e53-a3dc-33a1d88d7ace)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
