@@ -1,3 +1,8 @@
+## react-weather-app
+
+- Search city using API
+- Live-weather using API
+
 ## [See live](https://get-live-weather.netlify.app/)
 ## Preview :
 
